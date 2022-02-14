@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371584054575",
+    "project_id": "fighton-cd082",
+    "storage_bucket": "fighton-cd082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371584054575:android:4b44bb10580a1e88621dda",
+        "android_client_info": {
+          "package_name": "com.example.Fighton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371584054575-8vp7475q73mlfbv8b68fscrsfe2rs1vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXInIqPYxHMapRSqdH5rA-ZsvG02XGlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371584054575-8vp7475q73mlfbv8b68fscrsfe2rs1vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
